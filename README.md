@@ -61,7 +61,7 @@
 
 
 # Types of contributions :memo:
-You can contribute to the Principles in several ways. This repo presents recommended principles for any entrepreneur who want be as a principle-first thinker. startups could contribute this principles also they could have a customized version by forking this repo.
+This repo presents recommended principles for any entrepreneur who wants to be a principle-first thinker. startups could contribute these principles also they could have a customized version by forking this repo.
 
 ### :mega: Discussions
 Discussions are where we have conversations.
